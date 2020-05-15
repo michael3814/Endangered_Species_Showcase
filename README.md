@@ -4,4 +4,4 @@ The application is written using the Swift programming language, and uses the Sw
 Data is stored in a json file and fed into the View Controllers with the use of models and observable objects. \n
 All information, images, and logos were taken from worldwildlife.org.
 
-![Endangered_Species](https://imgur.com/a/tZP6dU7.gif)
+![Endangered_Species](Endangered_Species.gif)
