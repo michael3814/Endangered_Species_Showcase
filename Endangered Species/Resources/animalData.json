@@ -1,0 +1,992 @@
+[
+    {
+        "id":   1001,
+        "name":         "Amur Leopard",
+        "continent":    "East Asia",
+        "country":      "China, Russia",
+        "habitat":      "Forest, Mountains",
+        "scientificName": "Panthera pardus orientalis",
+        "population":   "More than 84 individuals",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 121.47694444,
+            "latitude": 53.33277778
+        },
+        "imageName": "Amur_Leopard",
+        "imageName_2": "Amur_Leopard_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The Amur leopard is important ecologically, economically and culturally. Conservation of its habitat benefits other species, including Amur tigers and prey species.",
+        "threat": ["        The Amur leopard is poached largely for its beautiful, spotted fur. In 1999, an undercover investigation team recovered a female and a male Amur leopard skin, which were being sold for $500 and $1,000 respectively in the village of Barabash, not far from the Kedrovaya Pad reserve in Russia. Agriculture and villages surround the forests where the leopards live. As a result the forests are relatively accessible, making poaching a problem—not only for the leopards themselves, but also for important prey species, such as roe deer, sika deer and hare, which are hunted by the villagers both for food and cash.", "      There are still large tracts of suitable habitat left across the Amur in Russia and China. In China the prey base is insufficient to sustain large populations of leopards and tigers. Prey populations will recover if measures are taken to limit the poaching of prey species and the forests are managed for logging more sustainably. For the Amur leopard to survive for the long term, it needs to repopulate its former range. But for that to happen, prey populations need to recover first."],
+        "threatTitle": ["Illegal Wildlife Trade", "Prey Scarcity"]
+        
+    },
+    
+    {
+        "id":   1002,
+        "name":         "Black Rhino",
+        "continent":    "East Africa",
+        "country":      "Nambia, Coastal East Africa",
+        "habitat":      "Deserts, Grasslands",
+        "scientificName": "Diceros bicornis",
+        "population":   "More than 5,500",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 33.44787598,
+            "latitude": -0.17440769
+        },
+        "imageName": "Black_Rhino",
+        "imageName_2": "Black_Rhino_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Rhinos play an important role in their habitats and in countries like Namibia, rhinos are an important source of income from ecotourism.",
+        "threat":["     Of all the threats facing black rhinos, poaching is the deadliest. Black rhinos have two horns which make them lucrative targets for the illegal trade in rhino horn A wave of poaching for rhino horn rippled through Kenya and Tanzania, continued south through Zambia's Luangwa Valley as far as the Zambezi River, and spread into Zimbabwe. Political instability and wars have greatly hampered rhino conservation work in Africa, notably in Angola, Rwanda, Somalia, and Sudan. This situation has exacerbated threats such as trade in rhino horn and increased poaching due to poverty.", "      Next to poaching, loss of habitat contributes to declines in rhino population. Human activities such as agriculture, settlements, and infrastructure development result in the loss and fragmentation of rhino habitat, which increases the risk of poaching and inbreeding.", "        High population density in some sites leads to lower breeding rates and increases the probability of disease transmission. Smaller, isolated populations can also be prone to genetic impacts from inbreeding."],
+        "threatTitle": ["Illegal Wildlife Trade", "Habitat Loss and Fragmentation", "Population Density, Disease, and Inbreeding"]
+    },
+    
+    {
+        "id":   1003,
+        "name":         "Bornean Orangutan",
+        "continent":    "South East Asia",
+        "country":      "Borneo, Sumatra",
+        "habitat":      "Forests",
+        "scientificName": "Pongo pygmaeus",
+        "population":   "About 104,700",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 114.143935,
+            "latitude": -1.106123
+        },
+        "imageName": "Bornean_Orangutan",
+        "imageName_2": "Bornean_Orangutan_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Orangutans play a critical role in seed dispersal, keeping forests healthy. Over 500 plant species have been recorded in their diet.",
+        "threat": ["        Young orangutans are in demand for a flourishing pet trade, with each animal fetching several hundred dollars in city markets on nearby islands. Studies have indicated that 200-500 orangutans from Indonesian Borneo alone enter the pet trade each year. This represents a real threat to wild orangutan populations as orangutans have an extremely low reproductive rate. There is also trade in orangutan parts in Kalimantan, with orangutan skulls fetching up to $70 in towns.", "     Orangutans are sometimes shot in retaliation when they move into agricultural areas, such as oil palm plantations, and destroy crops. This occurs particularly in times of hardship when orangutans can’t find the food they need in the forest."],
+        "threatTitle": ["Illegal Wildlife Trade", "Conflict with Humans"]
+    },
+    
+    {
+        "id":   1004,
+        "name":         "Cross River Gorilla",
+        "continent":    "Central Africa",
+        "country":      "Congo Basin",
+        "habitat":      "Forests",
+        "scientificName": "Gorilla gorilla diehli",
+        "population":   "200 to 300 individuals",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 14.8965794,
+            "latitude": -0.6605788
+        },
+        "imageName": "Cross_River_Gorilla",
+        "imageName_2": "Cross_River_Gorilla_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Cross River Gorilla are wary of humans and inhabit rugged territory, scientists have been unable to count many of these gorillas directly. Cross River gorillas are scattered in at least 11 groups across the lowland montane forests and rainforests of Cameroon and Nigeria, an area of 3,000 square miles, or about twice the size of Rhode Island.",
+        "threat":["     The hunting and killing of gorillas is illegal in Cameroon and Nigeria, but enforcement of wildlife laws is often lax. Following conservation efforts, hunting has declined to a low level, but any amount of gorilla killing will have a significantly impact an already small population.", "     The population risks inbreeding and a loss of genetic diversity because there are so few Cross River gorillas and they live in groups that interact infrequently if at all."],
+        "threatTitle": ["Hunting, Inbreeding"]
+    },
+    
+    {
+        "id":   1005,
+        "name":         "Eastern Lowland Gorilla",
+        "continent":    "Central North America",
+        "country":      "Congo Basin",
+        "habitat":      "Forests",
+        "scientificName": "Gorilla beringei graueri",
+        "population":   "Unknown",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 14.8965794,
+            "latitude": -0.6605788
+        },
+        "imageName": "Eastern_Lowland_Gorilla",
+        "imageName_2": "Eastern_Lowland_Gorilla_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The eastern lowland gorilla’s range has declined by at least a quarter over the last 50 years. The last census, in the mid-1990s, estimated that there were only 16,900 of the animals left in the wild, but following more than a decade of habitat destruction and fragmentation and years of civil unrest, the eastern lowland gorilla’s population may have declined by half or more.",
+        "threat": ["      As humans have moved from high-density regions in the East into the gorilla’s territory, they have destroyed and fragmented much of the animal’s forest habitat to make room for farming and livestock. Only a small portion of the gorilla’s range lies in protected areas such as Kahuzi-Biega National Park. But even there, park rangers often find it difficult to patrol the borders and protect the gorillas.", "        Illegal mining for tin, gold, diamond and, especially, coltan—an alloy used in cell phones—is widespread throughout the eastern lowland gorilla’s range. This mining has helped to fuel the civil unrest in the region and attracted migrants who hunt the animals for bushmeat, medicine and the capture and trade of infant gorillas.", "     Years of political instability and conflict have left the Congolese network of national parks in a state of neglect. Humans have been able to encroach upon Kahuzi-Biega National Park to hunt gorillas and to set up illegal mines. In addition, military activity and the presence of heavy weaponry have contributed to unrest in the region that has made conservation efforts difficult."],
+        "threatTitle": ["Habitat Loss and Fragmentation", "Mining", "Civil Unrest"]
+    },
+    
+    {
+        "id":   1006,
+        "name":         "Hawksbill Turtle",
+        "continent":    "Coastal East Africa",
+        "country":      "Mesoamerican Reef, Coral Triangle",
+        "habitat":      "Oceans",
+        "scientificName": "Eretmochelys imbricata",
+        "population":   "Unknown",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": -87.57425308,
+            "latitude": 16.4757198
+        },
+        "imageName": "Hawksbill_Turtle",
+        "imageName_2": "Hawksbill_Turtle_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Hawksbills help maintain the health of coral reefs. As they remove prey such as sponges from the reef's surface, they provide better access for reef fish to feed.  They also have cultural significance and tourism value.  For example, for local residents in the Coral Triangle, the flow of visitors who come to admire turtles is a vital source of income.",
+        "threat":["     Despite their current protection under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and many national laws, there is still a disturbingly large amount of illegal trade in hawksbill shells and products. They are much sought after throughout the tropics for their beautiful brown and yellow carapace plates that are manufactured into tortoiseshell items for jewelry and ornaments. In recent decades, eastern Asia has provided an eager market for tortoiseshell.", "       Hawksbills are particularly susceptible to entanglement in gillnets and accidental capture on fishing hooks. Sea turtles need to reach the surface to breathe, and therefore many drown once caught. Known as bycatch, this is a serious threat to hawksbill turtles. As fishing activity expands, this threat is more of a problem."],
+        "threatTitle": ["Illegal Wildlife Trade", "Fisheries Bycatch"]
+    },
+    
+    {
+        "id":   1007,
+        "name":         "Javan Rhino",
+        "continent":    "South East Asia",
+        "country":      "Ujung Kulon National Park, Indonesia",
+        "habitat":      "Forest",
+        "scientificName": "Rhinoceros sondaicus",
+        "population":   "58–68",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": -105.3751,
+            "latitude": -6.7847
+        },
+        "imageName": "Javan_Rhino",
+        "imageName_2": "Javan_Rhino_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The population in Ujung Kulon National Park represents the only hope for the survival of a species that is on the brink of extinction. Until the late 19th century and early 20th century, Javan rhinos existed from northeast India and the Sunderbans, throughout mainland Southeast Asia, and on the island of Sumatra. If we lose the population in Java, the entire species will disappear.",
+        "threat":["     Javan rhinos were killed by trophy hunters during colonial times. They were also killed as agricultural pests and for their horn, a highly prized commodity in traditional Asian medicine. Poaching remains an ever-present threat.", "     The small size of the Javan rhino population is a cause for concern. Low genetic diversity and inbreeding could make it difficult for the long-term survival of the species.", "        The coastal Ujung Kulon National Park is highly vulnerable to tsunamis, and a major explosion of the nearby Anak Krakatau volcano could easily wipe out most life in the protected area. Rising sea levels because of climate change also threaten the park.", "        The Arenga palm has overtaken parts of the park, reducing natural forage and habitat quality.", "       In recent years four rhinos, including one young adult female, are thought to have died from disease, probably transmitted to wild cattle in the park and subsequently to the rhinos.", "       People living near the park are encroaching on and degrading crucial rhino habitat. Important economic development near the park, including from (eco)tourism, risks further encroachment into the park."],
+        "threatTitle": ["Illegal Wildlife Trade", "Reduced Genetic Diversity", "Natural Disasters", "Arenga Palm", "Disease", "Habitat Degredation"]
+    },
+    
+    {
+        "id":   1008,
+        "name":         "Orangutan",
+        "continent":    "South East Asia",
+        "country":      "Sumatra and Borneo",
+        "habitat":      "Forest",
+        "scientificName": "Pongo abelii, Pongo pygmaeus",
+        "population":   "about 104,700 (Bornean), 13,846 (Sumatran), 800 (Tapanuli)",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 101.495476,
+            "latitude": 0.541069
+        },
+        "imageName": "Orangutan",
+        "imageName_2": "Orangutan_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Orangutans are 'gardeners' of the forest, playing a vital role in seed dispersal in their habitats. They live in tropical forests and prefer forest in river valleys and floodplains of their respective islands. Orangutans' extremely low reproductive rate makes their populations highly vulnerable. Females give birth to one infant at a time about every 3-5 years, so these species can take a long time to recover from population declines. With human pressure only increasing, orangutans face an increasing risk of extinction.",
+        "threat":["     Orangutans are an easy target for hunters because they're large and slow targets. They are killed for food or in retaliation when they move into agricultural areas and destroy crops. This usually occurs when orangutans can't find the food they need in the forest. Females are hunted most often. When caught with offspring, the young are often kept as pets. The pet trade is a major problem. It is thought that for each orangutan reaching Taiwan, as many as 3-5 additional animals die in the process. Recent enforcement of the law in Taiwan has reduced the importation of orangutans, but the trade remains a threat in Indonesia where there is still demand for orangutans as pets. There is also trade in orangutan skulls in Kalimantan (Indonesian Borneo).", "       The habitats of Asia's only great apes are fast disappearing under the chainsaw to make way for oil palm plantations and other agricultural plantations. Illegal logging inside protected areas and unsustainable logging in concessions where orangutans live remains a major threat to their survival. Today, more than 50% of orangutans are found outside protected areas in forests under management by timber, palm oil and mining companies."],
+        "threatTitle": ["Hunting and Illegal Wildlife Trade", "Deforestation and Habitat Loss"]
+    },
+    
+    {
+        "id":   1009,
+        "name":         "Saola",
+        "continent":    "South East Asia",
+        "country":      "Greater Mekong",
+        "habitat":      "Forests",
+        "scientificName": "Pseudoryx nghetinhensis",
+        "population":   "Unknown",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 105.489264,
+            "latitude": 18.230248
+        },
+        "imageName": "Saola",
+        "imageName_2": "Saola_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The actual size of the remaining population is unknown. Its rarity, distinctiveness and vulnerability make it one of the greatest priorities for conservation in the region. The current population is thought to be a few hundred at a maximum and possibly only a few dozen at a minimum.",
+        "threat":["     As forests disappear under the chainsaw to make way for agriculture, plantations and infrastructure, saola are being squeezed into smaller spaces. The added pressure from rapid and large-scale infrastructure in the region is also fragmenting saola habitat. Conservationists are concerned that this is allowing hunters easy access to the once untouched forest of the saola and may reduce genetic diversity in the future.", "     Saola are often caught in snares set in the forest for wild boar, sambar or muntjac deer. Local villagers set some snares for subsistence use and crop protection. Recent increases in lowland people hunting to supply the illegal trade in wildlife has led to a massive increase in hunting, driven by traditional medicine demand in China and restaurant and food markets in Vietnam and Laos."],
+        "threatTitle": ["Habitat Loss", "Hunting"]
+    },
+    
+    {
+        "id":   1010,
+        "name":         "Sumatran Elephant",
+        "continent":    "South Asia",
+        "country":      "Borneo and Sumatra",
+        "habitat":      "Forest",
+        "scientificName": "Elephas maximus sumatranus",
+        "population":   "2,400 – 2,800",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 101.660614,
+            "latitude": 0.813648
+        },
+        "imageName": "Sumatran_Elephant",
+        "imageName_2": "Sumatran_Elephant_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Sumatran elephants feed on a variety of plants and deposit seeds wherever they go, contributing to a healthy forest ecosystem.",
+        "threat":["     In 2012, the Sumatran elephant was changed from “Endangered” to “Critically Endangered” because half of its population has been lost in one generation—a decline that is largely due to habitat loss and as a result human-elephant conflict. Sumatra has experienced one of the highest rates of deforestation within the Asian elephant’s range, which has resulted in local extinctions of elephants in many areas. Over two-thirds of its natural lowland forest has been razed in the past 25 years and nearly 70 percent of the Sumatran elephant’s habitat has been destroyed in one generation. In Sumatra’s Riau province, pulp and paper industries and oil palm plantations have caused some of the world’s most rapid rates of deforestation. Elephant numbers have declined by a staggering 80 percent in less than 25 years, confining some herds to small forest patches. These populations are not likely to survive in the long-term. The Lampung province has seen its number of elephant herds decline from twelve in the 1980s to only three by 2002. Just two of the remaining herds are considered biologically viable.", "       Sumatran elephants typically have smaller tusks but they are enough to tempt poachers who kill the animals and sell their tusks on the illegal ivory market. Only male Asian elephants have tusks so every poaching event further skews the sex ratio further constraining breeding rates for the species.", "     As a result of the rapid development and deforestation in Sumatra, elephants often come into contact with human settlements. They raid crops, trample homes and sometimes even hurt or kill people. Those affected sometimes retaliate and poison or shoot elephants."],
+        "threatTitle": ["Habitat Loss and Deforestation", "Poaching", "Human-Elephant Conflict"]
+    },
+    
+    {
+        "id":   1011,
+        "name":         "Sumatran Rhino",
+        "continent":    "South Asia",
+        "country":      "Borneo and Sumatra",
+        "habitat":      "Forests",
+        "scientificName": "Dicerorhinus sumatrensis",
+        "population":   "80",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 101.660614,
+            "latitude": 0.813648
+        },
+        "imageName": "Sumatran_Rhino",
+        "imageName_2": "Sumatran_Rhino_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      In all rhino conservation areas, there are other valuable plants and animals. Protecting rhinos helps maintain other animal and plant life in the area and keeps ecosystems healthy.",
+        "threat":["     Growing consumer demand for rhino horn has driven the unsustainable increase in poaching across Africa and Asia. Rhino horn is coveted in parts of Asia for its purported medicinal qualities and as an ornament, often carved, which connotes social status and prestige. \n       China and Vietnam are the two largest consumer markets for rhino horn. Demand in China began escalating in the 1990s in tandem with booming economic growth. Investigations by TRAFFIC, the world’s largest wildlife trade monitoring network, and WWF reveal that use of rhino horn in traditional medicine persists in many countries.", "        Sumatran rhino habitat is being lost or degraded by invasive species, road construction, and encroachment for agricultural expansion. For example, Bukit Barisan Selatan National Park in Sumatra is losing forest cover due to conversion for coffee and rice by illegal settlers.", "     Protection is insufficient in existing protected areas. When rhinos move outside of protected areas, communities are not sufficiently engaged or incentivized to protect them.", "      Due to small numbers, low probability of breeding pairs encountering one other, and reproductive problems among aging females, we believe breeding among wild Sumatran rhinos to be minimal in most locations. Most—if not all—of the remaining sub-populations are too small to be viable long-term breeding populations."],
+        "threatTitle": ["Illegal Wildlife Trade", "Habitat Loss", "Lack of Protection", "Small Population size and Isolation"]
+    },
+    
+    {
+        "id":   1012,
+        "name":         "Sunda Tiger",
+        "continent":    "South Asia",
+        "country":      "Sunda Island",
+        "habitat":      "Grasslands, Forests, Wetlands",
+        "scientificName": "Panthera tigris sondaica",
+        "population":   "Less than 400",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": -110.0000,
+            "latitude": -2.0000
+        },
+        "imageName": "Sunda_Tiger",
+        "imageName_2": "Sunda_Tiger_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The island of Sumatra is the only place where tigers, rhinos, orangutans, and elephants live together in the wild. The presence of the Sunda tiger is an important indicator of a forest's health and biodiversity. Protecting tigers and their habitat means many other species benefit—including people.",
+        "threat":["    Most tigers in Sumatra are killed deliberately for commercial gain. According to a survey from TRAFFIC, the global wildlife trade monitoring network, poaching for trade is responsible for almost 80% of estimated Sumatran tiger deaths—amounting to at least 40 animals per year. \n      Despite intensified conservation and protection measures in parts of Sumatra and some success in curtailing markets for tiger bone, there is little evidence that tiger poaching has declined significantly on the island since the early 1990s.", "        Dispersal of tigers in search of their territory and habitat destruction forces tigers out of protected areas and into human-occupied spaces— where they are more likely to come into conflict with people. Like other parts of the tiger’s range, human-tiger conflict is a serious problem in Sumatra. People have been killed or wounded, and livestock falls prey to tigers. Retaliatory action by villagers can result in the killing of tigers.", "       Habitat for the Sumatran tiger has been drastically reduced by clearing for agriculture (particularly oil palm), plantations, and settlement. On many parts of the island, illegal timber harvesting, and forest conversion are out of control. Between 1985 and 2014, the island’s forest cover plunged from 58% to 26%. Even protected areas face problems. In addition, forest conversion has isolated national parks from one another, along with populations of species like tigers that need large areas for breeding, feeding, and dispersing."],
+        "threatTitle": ["Illegal Wildlife Trade", "Human-Wildlife Conflict", "Habitat Loss"]
+    },
+    
+    {
+        "id":   1013,
+        "name":         "Vaquita",
+        "continent":    "Southern North America",
+        "country":      "Gulf of California",
+        "habitat":      "Ocean",
+        "scientificName": "Phocoena sinus",
+        "population":   "About 10 individuals",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": -114.376774,
+            "latitude": 31.166324
+        },
+        "imageName": "Vaquita",
+        "imageName_2": "Vaquita_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The vaquita is the most endangered cetacean in the world. With as few as around 10 left, the species will become extinct without a fully enforced gillnet ban throughout their entire habitat. WWF is urgently working to ensure they can live and thrive in their natural habitat.",
+        "threat":["     The vaquita will be extinct if fishery bycatch is not eliminated immediately. Nearly one out of every five vaquita get entangled and drown in gillnets intended for other marine species like the totoaba, a critically endangered fish also found in the upper Gulf of California. Entanglement in gillnets set for totoaba was the primary cause that brought the vaquita to low levels by the mid-1970s. Totoaba were overfished by the mid-1970s and were listed as endangered by Mexico in 1975, and by the US in 1979. \n     Today, international trade in totoaba is banned under CITES, a global agreement among governments to regulate or ban international trade in species under threat, but high demand from China for its swim bladder has led to a boom in illegal totoaba fishing in the past few years. Demand for totoaba swim bladders has been driven by the belief in Chinese medicine that they are a cure to a variety of illness and diseases. Thousands of swim bladders are dried and smuggled out of Mexico, often through the United States. Fishermen receive around $4,000 for each pound of totoaba swim bladder, equivalent to half a year's income from legal fishing activities. It is this illegal trade that is currently driving the sharp decline in vaquita numbers."],
+        "threatTitle": ["Overfishing"]
+    },
+    
+    {
+        "id":   1014,
+        "name":         "Western Lowland Gorilla",
+        "continent":    "Central Africa",
+        "country":      "Congo Basin",
+        "habitat":      "Forests",
+        "scientificName": "Gorilla gorilla gorilla",
+        "population":   "Unknown",
+        "category":     "Critically Endangered",
+        "coordinates": {
+            "longitude": 11.877379,
+            "latitude": -3.587693
+        },
+        "imageName": "Western_Lowland_Gorilla",
+        "imageName_2": "Western_Lowland_Gorilla_2",
+        "isFavorite": false,
+        "whyTheyMatter": "       Large numbers have not protected the western lowland gorilla from decline. Because of poaching and disease, the gorilla’s numbers have declined by more than 60% over the last 20 to 25 years.",
+        "threat":["     Central Africa is home to not only gorillas, but also the deadly Ebola virus. Ebola has caused a number of massive gorilla and chimpanzee die-offs in the remote forests at the heart of the primates’ ranges. Some scientists estimate that it has killed about one third of the wild gorilla population, mostly western lowland gorillas. The toll has been even greater in some areas, such as the Minkébé Forest—once considered one of the most important populations—where the virus may have killed more than 90% of the region’s gorillas and chimpanzees.", "      The hunting and killing of gorillas is illegal but still the animals are killed for bushmeat or during the capture of baby gorillas for pets. In Northeast Congo, about 5% of western lowland gorillas in that region are killed each year. Timber and other companies have opened areas of once remote forest, facilitating poaching and the bushmeat trade. Poaching also carries dangers for humans as it is thought that Ebola may be spread through the butchering and handling of gorilla and other primate meat."],
+        "threatTitle": ["Disease", "Poaching"]
+    },
+    
+    
+    {
+        "id":   1004,
+        "name":         "African Wild Dog",
+        "continent":    "East Africa",
+        "country":      "Coastal East Africa",
+        "habitat":      "Deserts, Grasslands, Forests",
+        "scientificName": "Lycaon pictus",
+        "population":   "Around 1,400",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 0.1768696,
+            "latitude": 37.9083264
+        },
+        "imageName": "African_Wild_Dog",
+        "imageName_2": "African_Wild_Dog_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The wild dog is one of the world’s most endangered mammals. Wild dogs gather in packs of around ten individuals, but some packs number more than 40.",
+        "threat": ["        Major threats to the survival of wild dogs include accidental and targeted killings by humans, viral diseases like rabies and distemper, habitat loss and competition with larger predators like lions. Conflicts occur when wild dogs come in contact with people whose livelihoods rest largely on livestock and agriculture. Problems arise when expanding human activities decrease the habitat for available prey for wild dogs."],
+        "threatTitle": ["Human Expansion"]
+    },
+    
+    {
+        "id":   1015,
+        "name":         "Asian Elephant",
+        "continent":    "South Asia",
+        "country":      "Eastern Himalayas, Greater Mekong",
+        "habitat":      "Forests",
+        "scientificName": "Elephas maximus indicus",
+        "population":   "Fewer than 50,000",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 101.799377,
+            "latitude": 19.037027
+        },
+        "imageName": "Asian_Elephant",
+        "imageName_2": "Asian_Elephant_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      A future for Asian elephants ensures a future for other species and wild spaces. By protecting elephants, we also protect other animals that live in their habitat.",
+        "threat":[      "Even where suitable habitat exists, poaching remains a threat to elephants in many areas. In 1989, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), a global agreement among governments to regulate or ban international trade in species under threat, banned the international trade in elephant ivory. However, there are still places where the trade is thriving, and unregulated domestic ivory markets in a number of countries fuel the illegal international trade. Although most of this ivory comes from poaching of African elephants, Asian elephants (tusked males) are also illegally hunted for their ivory. There is also a steady market for other elephant products, such as skin, tail hair, and meat, which continues to fuel poaching, a significant threat to already small elephant populations found in many of these countries.", "     The illegal capture of wild elephants and elephant calves for various purposes, such as tourism, has become a threat to some wild populations, significantly affecting population numbers. India, Vietnam, and Myanmar have banned capture in order to conserve their wild herds, but illegal captures still occur in a number of countries where elephants live.", "       The biggest threat to Asian elephants is habitat loss and fragmentation. Asia is the most populous continent on Earth, where development and economic growth have led to encroachment into places where elephants live. This has led to an average of 70% of elephants being found outside protected areas today. Expanding human settlements, plantations, industry, farming, mining, and linear infrastructure (roads, railway lines, irrigation canals, etc.) have squeezed elephant populations into smaller pockets of forest surrounded by human settlements that often block traditional migratory routes."],
+        "threatTitle": ["Poaching and Illegal Wildlife Trade", "Capture of Wild Elephants", "Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1016,
+        "name":         "Black-footed Ferret",
+        "continent":    "Central North America",
+        "country":      "Northern Great Plains",
+        "habitat":      "Grasslands",
+        "scientificName": "Mustela nigripes",
+        "population":   "Approximately 370 in the wild",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -105.32558441,
+            "latitude": 45.33911521
+        },
+        "imageName": "Black-footed_Ferret",
+        "imageName_2": "Black-footed_Ferret_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Black-footed ferrets are one of the most endangered mammals in North America. Their recovery in the wild signifies the health of the grassland ecosystem.",
+        "threat":["     Habitat loss and non-native disease threaten the recovery of the black-footed ferret. The ferret is entirely dependent on the presence of prairie dogs and their colonies for food, shelter and raising young. Without ample reintroduction sites and protection from plague, full black-footed ferret recovery remains difficult."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1017,
+        "name":         "Blue Whale",
+        "continent":    "Central America/Southern Asia",
+        "country":      "Southern Chile, Gulf of California, Coral Triangle",
+        "habitat":      "Ocean",
+        "scientificName": "Balaenoptera musculus",
+        "population":   "10,000-25,000 individuals",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -114.376774,
+            "latitude": 31.166324
+        },
+        "imageName": "Blue_Whale",
+        "imageName_2": "Blue_Whale_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Whales are at the top of the food chain and have an important role in the overall health of the marine environment. During the 20th century, the blue whale was an important whaling target and even after it was protected and commercial whaling stopped in 1966, exploitation efforts by the former Soviet Union persisted.",
+        "threat":["     Like other large whales, blue whales are threatened by environmental change including habitat loss and toxics. Blue whales can also be harmed by ship strikes and by becoming entangled in fishing gear. Although commercial whaling no longer represents a threat, climate change and its impact on krill (shrimp-like crustaceans), blue whales' major prey, makes this cetacean particularly vulnerable."],
+        "threatTitle": ["Habitat Degredation"]
+    },
+    
+    {
+        "id":   1018,
+        "name":         "Bluefin Tuna",
+        "continent":    "Southern Asia",
+        "country":      "Coral Triangle",
+        "habitat":      "Ocean",
+        "scientificName": "Thunnus Thynnus",
+        "population":   "Unknown",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 115.933053,
+            "latitude": -3.5380935
+        },
+        "imageName": "Bluefin_Tuna",
+        "imageName_2": "Bluefin_Tuna_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The Atlantic bluefin is a highly sought-after delicacy for sushi and sashimi in Asia—a single fish has sold for over $1.75 million! Driven by such high prices, fishermen use even more refined techniques to catch tuna. And the fish are disappearing as a result. Although tuna do provide food and livelihoods for people, they are more than just seafood. Tuna are a top predator in the marine food chain, maintaining a balance in the ocean environment.",
+        "threat":["     TBluefin tuna populations have declined severely from overfishing and illegal fishing over the past few decades –not just Atlantic bluefin tuna, but also Pacific bluefin tuna and Southern bluefin tuna. Population declines have been largely driven by the demand for this fish in high end sushi markets.", "       Illegal fishing of Atlantic bluefin is a big problem and the fishery has been plagued by lack of enforcement and control."],
+        "threatTitle": ["Overfishing", "Pirate Fishing"]
+    },
+    
+    {
+        "id":   1019,
+        "name":         "Bonobo",
+        "continent":    "Central Africa",
+        "country":      "Congo Basin",
+        "habitat":      "Forest",
+        "scientificName": "Pan paniscus",
+        "population":   "10,000 to 50,000",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -36.79653168,
+            "latitude": -3.8967955
+        },
+        "imageName": "Bonobo",
+        "imageName_2": "Bonobo_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Bonobos share 98.7% of their genetic code with humans, making them, along with chimpanzees, our closest living relatives. As the last great ape to be scientifically discovered, much still remains unknown about the bonobo.",
+        "threat":["     Humans hunt bonobos to eat them, trade them as bushmeat, keep them as pets and for use in traditional medicine. Specific bonobo body parts are believed to enhance sexual vigor or strength. The number of bonobos lost to poaching each year is not known, but the number of bonobo charms available in parts of the Democratic Republic of Congo suggests that poaching may be common.", "        Only part of the bonobo’s range lies in protected areas. A growing and moving human population, combined with slash-and-burn agriculture and commercial logging, leaves bonobos outside parks at risk of losing their homes.", "        Civil unrest in the region around the bonobo’s home territory has led to many bonobo deaths, as gangs of poachers have been free to invade Salonga National Park, one of few protected areas for bonobos. In addition, unrest has made modern weaponry and ammunition more available, enabling hunting, and the military has at times sanctioned the hunting and killing of bonobos."],
+        "threatTitle": ["Poaching", "Habitat Loss", "Civil Warfare"]
+    },
+    
+    {
+        "id":   1020,
+        "name":         "Borneo Pygmy Elephant",
+        "continent":    "South Asia",
+        "country":      "Borneo and Sumatra",
+        "habitat":      "Forests",
+        "scientificName": "Elephas maximus borneensis",
+        "population":   "Approximately 1,500",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 101.660614,
+            "latitude": 0.813648
+        },
+        "imageName": "Borneo_Pygmy_Elephant",
+        "imageName_2": "Borneo_Pygmy_Elephant_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Borneo’s elephants are a high conservation priority, yet they remain the least-understood elephants in the world.",
+        "threat":["     Shrinking forests bring the elephants into more frequent contact with people, increasing human -elephant conflict in the region. New oil palm plantations in the area mean more human settlements, with some people setting illegal snares to catch small game. In the Lower Kinabatangan Wildlife Sanctuary, it is estimated that 20 percent of resident elephants have sustained injuries from these snares.", "      The primary threat to these elephants is the loss of continuous forests. Mammals of their size require large areas to find sufficient food. The large blocks of forests they require are fragmented by encroachment and conversion of natural forests to commercial plantations. Logging, expanding agriculture, and palm oil plantations are reducing contact between sub populations, as well as shrinking the forest area available for each sub-population."],
+        "threatTitle": ["Conflict with Humans", "Habitat Loss"]
+    },
+    
+    {
+        "id":   1021,
+        "name":         "Fin Whale",
+        "continent":    "Southern North America",
+        "country":      "Gulf of California, Coral Triangle, Arctic",
+        "habitat":      "Ocean",
+        "scientificName": "Balaenoptera physalus",
+        "population":   "Between 50,000-90,000",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -4.68017578,
+            "latitude": 79.48262347
+        },
+        "imageName": "Fin_Whale",
+        "imageName_2": "Fin_Whale_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Whales are at the top of the food chain and have an important role in the overall health of the marine environment. The fin whale has been severely impacted worldwide by commercial whaling. Nearly 750,000 animals were killed in areas of the Southern Hemisphere alone between 1904 and 1979, and they are rarely seen there today. Their current status is unknown in most areas outside of the North Atlantic.",
+        "threat":["     Hunted by commercial whalers until the last century for oil, meat, and baleen, fin whales in the North Atlantic are listed as endangered. Some populations are faring better as a result. Like other large whales, fin whales are threatened by environmental change including habitat loss, toxics and climate change. \n      Commercial whaling remains a threat for fin whales. After a two-year hiatus, Iceland resumed commercial fin whaling in 2013 with a quota of 184 whales. The majority of the whale meat ends up in Japanese markets. "],
+        "threatTitle": ["Overfishing"]
+    },
+    
+    {
+        "id":   1022,
+        "name":         "Galápagos Penguin",
+        "continent":    "South America",
+        "country":      "The Galápagos Islands",
+        "habitat":      "Oceans",
+        "scientificName": "Spheniscus mendiculus",
+        "population":   "fewer than 2000",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -91.115324,
+            "latitude": -0.7250783
+        },
+        "imageName": "Galápagos_Penguin",
+        "imageName_2": "Galápagos_Penguin_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      This is the only penguin species found north of the equator and in the Galápagos.",
+        "threat":["     Penguins are threatened by pollution, bycatch and climate change. Introduced species, such as dogs, carry diseases that can spread to penguins as well, and cats pose a threat as predators. Past strong El Niño events have caused mortalities of up to 77 percent, with dramatic declines of prey species and reduced breeding success."],
+        "threatTitle": ["Habitat Loss"]
+    },
+    
+    {
+        "id":   1023,
+        "name":         "Ganges River Dolphin",
+        "continent":    "Southern Asia",
+        "country":      "Eastern Himalayas",
+        "habitat":      "Freshwater Rivers",
+        "scientificName": "Platanista gangetica gangetica",
+        "population":   "1,200–1,800",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 85.319138,
+            "latitude": 23.91855957
+        },
+        "imageName": "Ganges_River_Dolphin",
+        "imageName_2": "Ganges_River_Dolphin_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The Ganges river dolphin is important because it is a reliable indicator of the health of the entire river ecosystem. The government of India declared it the National Aquatic Animal in 2009.",
+        "threat":["     The habitat of the Ganges river dolphin is within one of the most densely populated areas of the world. Ganges river dolphins and people both favor areas of the river where fish are plentiful and the water current is slower. This has led to fewer fish for people and more dolphins dying as a result of accidentally being caught in fishing nets, also known as bycatch. The Ganges river dolphin is still hunted for meat and oil, which are both used medicinally. The oil is also used to attract catfish in net fishery.", "        Industrial, agricultural, and human pollution is another serious cause of habitat degradation. Each year, 9,000 tons of pesticides and 6 million tons of fertilizers are used in the vicinity of the river. High levels of pollution can directly kill prey species and dolphins, and completely destroy their habitat. As the top predator, river dolphins have been known to have high levels of persistent toxic chemicals in their bodies, which is likely to adversely affect their health.", "        Ganges river dolphins are divided into isolated groups because of the construction of more than 50 dams and other irrigation-related projects. This makes them susceptible to inbreeding and more vulnerable to other threats because they cannot move to new areas. Dolphins trapped above a dam are exposed to poaching, especially during dry summer months. Dolphins below a dam are threatened by heavy pollution, increased fishing activities and vessel traffic. They also have less food because dams disturb the migration, breeding cycles and habitat of fish and other prey."],
+        "threatTitle": ["Bycatch", "Pollution", "Infrastructure"]
+    },
+    
+    {
+        "id":   1024,
+        "name":         "Green Turtle",
+        "continent":    "Central Africa",
+        "country":      "Mesoamerican Reef, Coastal East Africa, Gulf of California, The Galápagos, Coral Triangle",
+        "habitat":      "Oceans",
+        "scientificName": "Chelonia mydas",
+        "population":   "Unknown",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": -4.68017578,
+            "latitude": 79.48262347
+        },
+        "imageName": "Green_Turtle",
+        "imageName_2": "Green_Turtle_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Green turtles graze on seagrasses and algae, which maintains the seagrass beds and makes them more productive (much like mowing the lawn to keep it healthy). Seagrass consumed by green turtles is quickly digested and becomes available as recycled nutrients to the many species of plants and animals that live in the sea grass ecosystem. Seagrass beds also function as nurseries for several species of invertebrates and fish, many of which are of considerable value to commercial fisheries and therefore important to human food security.",
+        "threat":["     Worldwide, hundreds of thousands of sea turtles a year are accidentally caught in shrimp trawl nets, on longline hooks and in fishing gillnets. Sea turtles need to reach the surface to breathe, and therefore many drown once caught. Known as bycatch, it is a serious hazard for green turtles. As fishing activity expands, this threat is more of a problem.", "        Sea turtles are dependent on beaches for nesting. Uncontrolled coastal development, vehicle traffic on beaches, and other human activities have directly destroyed or disturbed sea turtle nesting beaches around the world. Green turtle feeding grounds such as seagrass beds are also at risk from coastal development onshore, which leads to pollution and sedimentation in the nearby waters.", "        Worldwide, the green turtle continues to be hunted and its eggs harvested. Much of that is for human consumption, but trade of turtle parts remains a profitable business. Tens of thousands of green turtles are harvested every year, particularly in parts of Asia and the Western Pacific. Along the Eastern Pacific coast of Mexico, despite complete protection, green turtles are still at risk from exploitation. In West Africa, sea turtles are killed for use in medicine and some traditional ceremonies."],
+        "threatTitle": ["Fisheries Bycatch", "Habitat Loss", "Overharvesting and Illegal trade"]
+    },
+    
+    {
+        "id":   1025,
+        "name":         "Humphead Wrasse",
+        "continent":    "Coastal East Africa",
+        "country":      "Coral Triangle",
+        "habitat":      "Oceans",
+        "scientificName": "Cheilinus undulatus",
+        "population":   "Unknown",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Humphead_Wrasse",
+        "imageName_2": "Humphead_Wrasse_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      These fish are very important to coral reef health. They eat crown-of-thorn starfish and therefore keep populations of this damaging coral reef predator in check.",
+        "threat":["     The humphead wrasse is highly vulnerable to overfishing because it’s a valued luxury food as a part of the live reef fish trade predominant across Southeast Asia."],
+        "threatTitle": ["Overfishing"]
+    },
+    
+    {
+        "id":   1026,
+        "name":         "Indus River Dolphin",
+        "continent":    "Southern Asia",
+        "country":      "Pakistan",
+        "habitat":      "Freshwater",
+        "scientificName": "Platanista minor",
+        "population":   "1,816",
+        "category":     "Endangered",
+        "coordinates": {
+            "longitude": 69.243879,
+            "latitude": 29.205134
+        },
+        "imageName": "Indus_River_Dolphin",
+        "imageName_2": "Indus_River_Dolphin_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Indus river dolphins are found in Pakistan and River Beas, a tributary of Indus River in Punjab, India. The dolphin is the state aquatic animal of Punjab and WWF-India is working towards its conservation. River Beas is the only habitat of Indus River Dolphin in India. Like other freshwater dolphins, the Indus river dolphin is an important indicator of the health of a river.",
+        "threat":["     Fishing nets are set for extended hours and often overnight. Dolphins get trapped in the nets and drown. This accidental capture of the dolphins is known as bycatch.", "        Some communities who rely heavily on fishing think of the Indus River dolphin as competition for fish so poaching still occurs sporadically despite a ban on hunting.", "        The construction of barrages has resulted in habitat fragmentation. Dolphins are no longer found in the lower parts of the Indus River due to water extraction which dries up downstream channels for several months each year. Some dolphins that have moved downstream are unable to swim back upstream because of strong currents and barrages. \n     Over 37,000 miles of irrigation canals lead to dolphins becoming stranded in the irrigation canals and because these instances usually go unreported and many Indus river dolphins die without being rescued."],
+        "threatTitle": ["Bycatch", "Hunting", "Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1027,
+        "name":         "African Elephant",
+        "continent":    "Coastal East Africa",
+        "country":      "Congo Basin",
+        "habitat":      "Forests, Grasslands",
+        "scientificName": "Loxodonta africana",
+        "population":   "Approximately 415,000 in the wild",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "African_Elephant",
+        "imageName_2": "African_Elephant_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The presence of African elephants helps to maintain suitable habitats for many other species. In central African forests, up to 30 percent of tree species may require elephants to help with dispersal and germination. They play a pivotal role in shaping their habitat because of the enormous impact they have on factors ranging from fresh water to forest cover.",
+        "threat":["     The illegal demand for ivory is the biggest driver of elephant poaching. Despite a global CITES ban on international sales of ivory since 1990, tens of thousands of elephants are killed to meet a growing demand for ivory products in the Far East. Asia stands behind a steadily increasing trend in illegal ivory and there are still thriving domestic ivory markets in Africa. Limited resources combined with remote and inaccessible elephant habitats make it difficult for governments to monitor and protect elephant herds. The impacts of war and over-exploitation of natural resources often lead to increased poaching as elephants are also regarded as source of wild meat. 2011 saw the highest volume of illegal ivory seized since global records began in 1989.", "      African elephants have less room to roam than ever before as expanding human populations convert land for agriculture, settlements and developments. The elephants’ range shrank from three million square miles in 1979 to just over one million square miles in 2007. Commercial logging, plantations for biofuels and extractive industries like logging and mining not only destroy habitat but also open access to remote elephant forests for poachers. Poverty, armed conflict and the displacement of people by civil conflict also add to habitat loss and fragmentation. All of these push elephants into smaller islands of protected areas and hinder elephants’ freedom to roam."],
+        "threatTitle": ["Illegal Wildlife Trade", "Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1028,
+        "name":         "Bigeye Tuna",
+        "continent":    "Pacific/Alantic Ocean",
+        "country":      "The Galápagos, Coral Triangle, Gulf of California, Coastal East Africa",
+        "habitat":      "Oceans",
+        "scientificName": "Thunnus obesus",
+        "population":   "Unknown",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Bigeye_Tuna",
+        "imageName_2": "Bigeye_Tuna_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Bigeye tuna are an important commercial fish, usually marketed as fresh or frozen. Although tuna do provide food and livelihoods for people, they are more than just seafood. Tuna are a top predator in the marine food chain, maintaining a balance in the ocean environment.",
+        "threat":["     Bigeye tuna are prized in Asia for sashimi as well as frozen and fresh in other markets. As bluefin tuna populations shrink around the world, pressure on bigeye fisheries is increasing. According to information collected by the International Seafood Sustainability Foundation (ISSF) Scientific Advisory Committee, overfishing is occurring in Eastern and Western Pacific Oceans.", "       Juvenile bigeye tuna are increasingly caught as bycatch in skipjack tuna fisheries because they school with skipjack."],
+        "threatTitle": ["Overfishing", "Bycatch"]
+    },
+    
+    {
+        "id":   1029,
+        "name":         "Black Spider Monkey",
+        "continent":    "South America",
+        "country":      "Amazon",
+        "habitat":      "Forests",
+        "scientificName": "Ateles paniscus",
+        "population":   "Unknown",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": -46.323991,
+            "latitude": -7.243846
+        },
+        "imageName": "Black_Spider_Monkey",
+        "imageName_2": "Black_Spider_Monkey_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The black spider monkey is an essential part of the tropical rainforest ecosystem. They play a key role in seed dispersal, allowing their forest environment to continue to grow and thrive.",
+        "threat":["     The destruction of tropical rainforests and threats from hunting pose the greatest challenge to the black spider monkey’s survival. Because they prefer mature tropical forests and seldom venture into disturbed habitats, these monkeys are especially vulnerable to the effects of forest fragmentation."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1030,
+        "name":         "Dugong",
+        "continent":    "Pacific Ocean",
+        "country":      "Coastal East Africa, Coral Triangle",
+        "habitat":      "Oceans",
+        "scientificName": "Dugong dugon",
+        "population":   "Unknown",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Dugong",
+        "imageName_2": "Dugong_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Dugongs have become an important tourist attraction. Tourists can swim with them or observe them from boats.",
+        "threat":["     Dugongs are threatened by sea grass habitat loss or degradation because of coastal development or industrial activities that cause water pollution.  If there is not enough sea grass to eat then the dugong does not breed normally. This makes the conservation of their shallow water marine habitat very important. They also often become victims of bycatch, the accidental entanglement in fishing nets."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1031,
+        "name":         "Giant Panda",
+        "continent":    "East Asia",
+        "country":      "Yangtze",
+        "habitat":      "Mountains, Forests",
+        "scientificName": "Ailuropoda melanoleuca",
+        "population":   "1,864 in the wild",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 102.917469,
+            "latitude": 30.520258
+        },
+        "imageName": "Giant_Panda",
+        "imageName_2": "Giant_Panda_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The biological diversity of the panda’s habitat is unparalleled in the temperate world and rivals that of tropical ecosystems, making the giant panda an excellent example of an umbrella species conferring protection on many other species where pandas live. In other words, when we protect pandas, we invariably protect other animals that live around them, such as multicolored pheasants, the golden monkey, takin, and crested ibis. Pandas also bring sustainable economic benefits to many local communities through ecotourism.",
+        "threat":["     China’s Yangtze Basin region holds the panda’s primary habitat. Infrastructure development (such as dams, roads, and railways) is increasingly fragmenting and isolating panda populations, preventing pandas from finding new bamboo forests and potential mates.\n        Forest loss also reduces pandas’ access to the bamboo they need to survive. The Chinese government has established more than 50 panda reserves, but only around 67% of the total wild panda population lives in reserves, with 54% of the total habitat area being protected.", "       Although poaching impacted pandas in the past, its impact declined since the enactment of the Wildlife Protection Act (1988), which bans poaching and carries severe punishments. However, pandas may get caught accidentally in snares set for musk deer or other species."],
+        "threatTitle": ["Habitat Loss", "Hunting"]
+    },
+    
+    {
+        "id":   1032,
+        "name":         "Great White Shark",
+        "continent":    "Pacific/Alantic Ocean",
+        "country":      "Gulf of California, Southern Chile, The Galápagos, Coastal East Africa",
+        "habitat":      "Oceans",
+        "scientificName": "Carcharodon carcharias",
+        "population":   "Unknown",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Great_White_Shark",
+        "imageName_2": "Great_White_Shark_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      As large and powerful predators, great white sharks play an important role at the top of the marine food chain. Despite its fame and reputation, little is actually known about the great white shark’s biology and behavior.",
+        "threat":["     Great white sharks are decreasing in numbers and are rare due to years of being hunted by man for fins and teeth, and often as a trophy for sport fishing. The white shark is often caught as bycatch by commercial fisheries and can also become entangled in meshes that protect beaches."],
+        "threatTitle": ["Bycatch"]
+    },
+    
+    {
+        "id":   1033,
+        "name":         "Greater One-Horned Rhino",
+        "continent":    "Southern Asia",
+        "country":      "Eastern Himalayas",
+        "habitat":      "Forests, Grasslands, Deserts",
+        "scientificName": "Rhinoceros unicornis",
+        "population":   "3,500+ individuals",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 85.200520,
+            "latitude": 27.994401
+        },
+        "imageName": "Greater_One-Horned_Rhino",
+        "imageName_2": "Greater_One-Horned_Rhino_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Rhinos share their homes with other valuable plants and animals. When we protect greater one-horned rhinos, we also help protect these other species. These rhinos are also a symbol of national pride in the countries where they are found, which inspires environmental stewardship among local communities. These communities also benefit from the revenue generated through rhino ecotourism.",
+        "threat":["     Poaching for the illegal trade in rhino horn remains the biggest threat to the greater one-horned rhino. Although there is no scientific proof of its medical value, the horn is used in traditional Asian medicines, primarily for the treatment of a variety of ailments including epilepsy, fevers, and cancer. Extensive illegal trade persists throughout Asia despite protections and bans on international trade of rhino horn.", "      High population density in some parks leads to lower breeding rates. Also, concerns exist about long term viability of sub-populations due to lack of genetic diversity.", "        The enormous reduction in the range of rhinos was mainly caused by the disappearance of alluvial plain grasslands. Today, the growing human population’s need for land threatens the species. Many of the protected areas where rhinos live have reached the limit of the number of individuals they can support. This leads to human-rhino conflict, as rhinos more frequently leave the boundaries of protected areas to forage in the surrounding villages. Rhinos reportedly kill several people each year in India and Nepal."],
+        "threatTitle": ["Illegal Wildlife Trade", "Population Density and Genetic Diversity", "Habitat Loss"]
+    },
+    
+    {
+        "id":   1034,
+        "name":         "Leatherback Turtle",
+        "continent":    "Pacific/Alantic Ocean",
+        "country":      "Mesoamerican Reef, Coastal East Africa, Gulf of California, The Galápagos, Coral Triangle",
+        "habitat":      "Oceans",
+        "scientificName": "Dermochelys coriacea",
+        "population":   "115,000 to 130,000",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Leatherback_Turtle",
+        "imageName_2": "Leatherback_Turtle_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Marine turtles are the living representatives of a group of reptiles that has existed on Earth and traveled our seas for the last 100 million years. They are a fundamental link in marine ecosystems.\n        Leatherback turtles consume large numbers of jellyfish which helps to keep populations of these marine organisms in check. Marine turtles, including leatherbacks, also provide a vital source of income as a draw for ecotourism in coastal communities, especially in the Coral Triangle.",
+        "threat":["     Egg collection on many turtle nesting beaches is a very serious threat, especially in Southeast Asia where a culture of legal egg collection leads to the removal of tens of thousands of eggs. This practice has contributed to the local extinction of leatherbacks in Malaysia.  Within the last several decades extensive egg collection and the killing of adult turtles in Indonesia has resulted in huge population declines throughout the region. Despite protective legislation, many eggs produced each year in Central America are still collected for subsistence or commercial use. Hunting and egg collection persists throughout the Indian Ocean as well.", "      Worldwide, hundreds of thousands of sea turtles a year are accidentally caught in shrimp trawl nets, on longline hooks and in fishing gillnets. Sea turtles need to reach the surface to breathe, and therefore many drown once caught. Known as bycatch, this is a serious threat to leatherback turtles. As fishing activity expands, this threat is more of a problem.", "       Sea turtles are dependent on beaches for nesting. Sea level rise, uncontrolled coastal development, vehicle traffic on beaches, and other human activities have directly destroyed or disturbed sea turtle nesting beaches around the world. Turtle feeding grounds such as coral reefs and sea grass beds are also damaged and destroyed by activities onshore, such as sedimentation from clearing of land and nutrient run-off from agriculture."],
+        "threatTitle": ["Overharvesting", "Fisheries Bycatch", "Habitat Loss"]
+    },
+    
+    {
+        "id":   1035,
+        "name":         "Marine Iguana",
+        "continent":    "South America",
+        "country":      "The Galápagos",
+        "habitat":      "Oceans",
+        "scientificName": "Amblyrhynchus cristatus",
+        "population":   "Unknown",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": -91.120605,
+            "latitude": 0.640069
+        },
+        "imageName": "Marine_Iguana",
+        "imageName_2": "Marine_Iguana_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Marine iguanas are the world’s only oceangoing lizard. They are also only found in the Galápagos, where they can be seen resting on the rocky shores.",
+        "threat":["     Introduced species such as cats, rats, dogs and pigs prey on marine iguanas. They are also threatened by the impacts of climate change. Sea level and air temperature rise can affect their beach nesting habitat and the iguanas’ ability to regulate its body temperature while on land, as well as interfere with egg development."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1036,
+        "name":         "Polar Bear",
+        "continent":    "Artic",
+        "country":      "Artic",
+        "habitat":      "Polar Regions",
+        "scientificName": "Ursus maritimus",
+        "population":   "22,000-31,000",
+        "category":     "Vulnerable",
+        "coordinates": {
+            "longitude": -86.660156,
+            "latitude": 80.110666
+        },
+        "imageName": "Polar_Bear",
+        "imageName_2": "Polar_Bear_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Polar bears are at the top of the food chain and have an important role in the overall health of the marine environment. Over thousands of years, polar bears have also been an important part of the cultures and economies of Arctic peoples. Polar bears depend on sea ice for their existence and are directly impacted by climate change—serving as an important indicator species.",
+        "threat":["     Polar bears depend on sea ice as a platform from which to hunt seals, rest and breed. The summer sea ice has been decreasing in size for decades and melting for longer periods of time. Bears must move longer distances to stay with the rapidly receding ice.\n      In most areas, they come ashore when ice melts and rely on fat stores until the ice refreezes so they can go back out to hunt. Some polar bears may suffer from malnutrition. In extreme cases—especially females with cubs— they may face starvation.\n        Traditional prey species may be less accessible in a new sea ice environment, and seals that use the ice are predicted to fare poorly in the warming Arctic region.\n       Climate change is also resulting in more habitat fragmentation. As Arctic ice melts, polar bears are affected by increased shipping activities and a rise in opportunities for oil and gas development.", "     Many Arctic areas have strong polar bear management and monitoring. But there are a few places where unsustainable hunting appears to be happening, including unreported and illegal hunting."],
+        "threatTitle": ["Climate Change", "Unsustainable Hunting"]
+    },
+    
+    {
+        "id":   1037,
+        "name":         "Albacore Tuna",
+        "continent":    "Pacific/Alantic Ocean",
+        "country":      "The Galápagos, Coral Triangle, Coastal East Africa",
+        "habitat":      "Oceans",
+        "scientificName": "Thunnus alalunga",
+        "population":   "Unknown",
+        "category":     "Near Threatened",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Albacore_Tuna",
+        "imageName_2": "Albacore_Tuna_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      These fish are important commercially, as they are one of the two main canned tuna species (along with skipjack), and labeled as ‘solid white’ tuna. Although tuna do provide food and livelihoods for people, they are more than just seafood. Tuna are a top predator in the marine food chain, maintaining a balance in the ocean environment.",
+        "threat":["     According to information collected by the ISSF Scientific Advisory Committee, the northern and southern Atlantic Ocean stocks of albacore are overfished."],
+        "threatTitle": ["Overfishing"]
+    },
+    
+    {
+        "id":   1038,
+        "name":         "Beluga",
+        "continent":    "Artic",
+        "country":      "Artic Ocean",
+        "habitat":      "Oceans",
+        "scientificName": "Delphinapterus leucas",
+        "population":   "over 150,000",
+        "category":     "Near Threatened",
+        "coordinates": {
+            "longitude": -86.660156,
+            "latitude": 80.110666
+        },
+        "imageName": "Beluga",
+        "imageName_2": "Beluga_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Whales, like the beluga, are at the top of the food chain and have an important role in the overall health of the marine environment. Beluga whales are also culturally important to indigenous communities in the Arctic. Like polar bears, the beluga depends on sea ice for its existence and can be directly impacted by climate change.",
+        "threat":["     Thousands of years of evolution have prepared Arctic species like the polar bear, walrus and beluga for life on and around the sea ice. Because of climate change, that ice cover has been changing rapidly, in both extent and thickness, and shrinking far too quickly for these species to adapt. A beluga’s entire life is connected to sea ice, both as a place to feed and a place to take refuge. Slow swimming beluga whales rely on sea ice as a place to hide from predators like orcas.", "      Vessels that support oil and gas development mean increased shipping in sensitive areas. Increased shipping means more noise that can mask communications for many Arctic marine species and it increases the potential for collisions with marine mammals, especially whales. It also brings more pollution and a greater possibility of oil or fuel spills."],
+        "threatTitle": ["Climate Change", "Oil and Gas Development"]
+    },
+    
+    {
+        "id":   1039,
+        "name":         "Greater Sage Grouse",
+        "continent":    "Central North America",
+        "country":      "Northern Great Plains",
+        "habitat":      "Grasslands",
+        "scientificName": "Centrocercus urophasianus",
+        "population":   "100,000 to 500,000",
+        "category":     "Near Threatened",
+        "coordinates": {
+            "longitude": -100.110168,
+            "latitude": 44.779886
+        },
+        "imageName": "Greater_Sage_Grouse",
+        "imageName_2": "Greater_Sage_Grouse_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Sage-grouse are indicators of healthy, intact sagebrush habitat. The protection of sage-grouse impacts the other species that share the same habitat, such as pronghorn and songbirds.",
+        "threat":["     Oil and gas development disrupts the landscape and the sage-grouse's ability to reproduce. Predators often perch on the energy towers which is intimidating for the birds.  Loud sounds from the towers also disrupt the grouse's ability to call for mates."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1040,
+        "name":         "Narwhal",
+        "continent":    "Artic",
+        "country":      "Artic Ocean",
+        "habitat":      "Oceans",
+        "scientificName": "Monodon monoceros",
+        "population":   "more than 80,000",
+        "category":     "Near Threatened",
+        "coordinates": {
+            "longitude": -86.660156,
+            "latitude": 80.110666
+        },
+        "imageName": "Narwhal",
+        "imageName_2": "Narwhal_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Whales, like the narwhal, are at the top of the food chain and have an important role in the overall health of the marine environment. Narwhals are also culturally important to indigenous communities in the Arctic. Like polar bears, the narwhal depends on sea ice for its existence and can be directly impacted by climate change.",
+        "threat":["     Thousands of years of evolution have prepared Arctic species like the polar bear, walrus and narwhal for life on and around the sea ice. Because of climate change, that ice cover has been changing rapidly, in both extent and thickness, and shrinking far too quickly for these species to adapt. A narwhal’s entire life is connected to sea ice, both as a place to feed and a place to take refuge. Slow swimming whales rely on sea ice as a place to hide from predators like killer whales.", "       Vessels that support oil and gas development mean increased shipping in sensitive areas. Increased shipping means more noise that can mask communications for many Arctic marine species and it increases the potential for collisions with marine mammals, especially whales. It also brings more pollution and a greater possibility of oil or fuel spills."],
+        "threatTitle": ["Climate Change", "Oil and Gas Development"]
+    },
+    
+    {
+        "id":   1041,
+        "name":         "Bison",
+        "continent":    "Pacific Ocean",
+        "country":      "Northern Great Plains",
+        "habitat":      "Grasslands",
+        "scientificName": "Bison bison bison",
+        "population":   "20,504",
+        "category":     "Near Threatened",
+        "coordinates": {
+            "longitude": 41.006288,
+            "latitude": -8.328210
+        },
+        "imageName": "Bison",
+        "imageName_2": "Bison_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Historically bison were the dominant grazer on the Northern Great Plains landscape. This dominance shaped the landscape by affecting the pattern and structure of the grasses and vegetation that grew. Expansive areas of native grasslands allowed animals to flourish along with many species of other prairie wildlife.",
+        "threat":["     The plains bison is the largest land mammal in North America with some adult bulls weighing in excess of 2,000 pounds. Tens of millions of these iconic animals once roamed across much of North America. Today, the largest remaining wild herd of approximately 4,500 individuals can be found in Yellowstone National Park. Large North American grazers including the plains bison traditionally roamed across millions of acres, which kept the grasslands and herds healthy and diverse. However, early settlement and current land use by present-day communities have redefined where these large animals are able to roam. WWF’s Northern Great Plains Program is working with National Parks, native tribal communities, and its ranching partners to find common ground on returning bison to suitable intact prairie landscapes.", "        An overall population of just over 20,000 plains bison managed as wildlife in North America and small herd size among them contributes to the ongoing loss of genetic diversity. Therefore long-term conservation of existing diversity is at risk. Early 20th century experiments to interbreed bison and cattle with the goal of producing heartier livestock has also had an impact on population viability. At present, there are only believed to be two public bison herds that have not shown evidence of interbreeding with cattle to date; Yellowstone NP, and Elk Island National Park in Canada. Conservation groups have been working hard to establish additional herds elsewhere to safeguard these valuable genetics should a catastrophic event (e.g. disease outbreak) threaten these source herds."],
+        "threatTitle": ["Habitat Loss and Fragmentation", "Genetics"]
+    },
+    
+    {
+        "id":   1042,
+        "name":         "Artic Fox",
+        "continent":    "Artic",
+        "country":      "Polar Regions",
+        "habitat":      "Tundra",
+        "scientificName": "Vulpes lagopus",
+        "population":   "Several hundred thousand",
+        "category":     "Least Concern",
+        "coordinates": {
+            "longitude": -86.660156,
+            "latitude": 80.110666
+        },
+        "imageName": "Arctic_Fox",
+        "imageName_2": "Arctic_Fox_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      The protection of the Arctic fox ensures the safety of a variety of other wildlife in the Arctic region.",
+        "threat":["     Temperatures in the Arctic are rising at twice the rate of the rest of the world. Warming temperatures are linked to many changes in the Arctic, including reduced sea ice, melting permafrost and rising sea levels.", "        The Arctic fox was impacted tremendously by the fur trade because of its extremely high quality pelt. It's still hunted now for its fur, particularly by native populations who live in close proximity to them. The fur trade has decreased dramatically and the Arctic fox is not as vulnerable to overexploitation as it once was."],
+        "threatTitle": ["Climate Change", "Hunting"]
+    },
+    
+    {
+        "id":   1043,
+        "name":         "Bonehead Whale",
+        "continent":    "Arctic",
+        "country":      "Arctic Ocean ",
+        "habitat":      "Oceans",
+        "scientificName": "Balaena mysticetus",
+        "population":   "Approximately 10,000",
+        "category":     "Least Concern",
+        "coordinates": {
+            "longitude": -86.660156,
+            "latitude": 80.110666
+        },
+        "imageName": "Bonehead_Whale",
+        "imageName_2": "Bonehead_Whale_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Whales are at the top of the food chain and have an important role in the overall health of the marine environment. The bowhead whale’s conservation status is listed as “least concern” overall, but some populations (such as near Greenland) are endangered. They have traditionally been hunted by commercial whalers until the last century for oil, meat, and baleen.  Today, native communities in both the U.S. and Russia hunt bowheads for subsistence purposes. This subsistence whaling is approved and its sustainability is ensured by the International Whaling Commission (IWC).",
+        "threat":["     Bowheads have suffered from hunting by commercial whalers until the last century for oil, meat, and baleen. Some populations are faring better as a result of the International Whaling Commission (IWC)’s commercial whaling moratorium. Like other large whales, bowhead whales are threatened by habitat loss, toxics and climate change, as well as offshore oil and gas exploration and increased shipping in Arctic waters."],
+        "threatTitle": ["Hunting"]
+    },
+    
+    {
+        "id":   1044,
+        "name":         "Brown Bear",
+        "continent":    "Arctic",
+        "country":      "Canada",
+        "habitat":      "Forests, Polar regions, Mountains",
+        "scientificName": "Ursus arctos",
+        "population":   "110,000",
+        "category":     "Least Concern",
+        "coordinates": {
+            "longitude": -104.062500,
+            "latitude": 64.246982
+        },
+        "imageName": "Brown_Bear",
+        "imageName_2": "Brown_Bear_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      While brown bear population numbers are currently stable, they are considered a high priority in conservation. Given their dependence on large natural areas, brown bears are important management indicators for a number of other wildlife species. Brown bears also play important roles as predators who keep other animal populations in check. Additionally, they act as seed dispersers, helping to sustain their own environment.",
+        "threat":["     Brown bears were pursued extensively due to their size, valuable furs and meat. The brown bear population now occupies just 2% of its former range. Bear gall bladders reportedly bring high prices as traditional medicines on the Asian market although there is no evidence that products derived from bear parts have medical value.", "        Human expansion into the bears’ natural habitat, as well as instances where brown bears are considered nuisances, demonstrate the tension that exists between bears and people. Logging, mining, road construction, and other development—coupled with human attempts to prevent brown bears’ interference with things like livestock, crops, water supplies, and garbage bins—all impact this animal population."],
+        "threatTitle": ["Hunting", "Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1045,
+        "name":         "Pronghorn",
+        "continent":    "Central North America",
+        "country":      "Northern Great Plains",
+        "habitat":      "Grasslands, Deserts",
+        "scientificName": "Antilocarpa americana",
+        "population":   "Unknown",
+        "category":     "Least Concern",
+        "coordinates": {
+            "longitude": -107.759399,
+            "latitude": 41.508577
+        },
+        "imageName": "Pronghorn",
+        "imageName_2": "Pronghorn_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      Pronghorn are an indicator of healthy sagebrush systems which can suffer from fragmentation and degradation. They are North America’s fastest land mammal and embark on the longest land migration of any hoofed animal in America’s lower 48 states.",
+        "threat":["     Every year, pronghorn herds follow the same migration pathways as their ancestors. Habitat fragmentation from fences, roads and energy development create barriers and threaten the animal’s ability to safely return to seasonal breeding and wintering grounds. Energy development can also degrade vital grounds, displace herds and fragment seasonal migration routes."],
+        "threatTitle": ["Habitat Loss and Fragmentation"]
+    },
+    
+    {
+        "id":   1046,
+        "name":         "Amazon River Dolphin",
+        "continent":    "South America",
+        "country":      "Amazon",
+        "habitat":      "Freshwater Rivers and Lakes",
+        "scientificName": "Inia geoffrensis",
+        "population":   "Unknown",
+        "category":     "Least Concern",
+        "coordinates": {
+            "longitude": -56.822662,
+            "latitude": -15.114553
+        },
+        "imageName": "Amazon_River_Dolphin",
+        "imageName_2": "Amazon_River_Dolphin_2",
+        "isFavorite": false,
+        "whyTheyMatter": "      River dolphins are rapidly disappearing and so are their natural river habitats. Understanding the threats that impact them and protecting them ensures the preservation of their unique habitat.",
+        "threat":["     Mercury pollution from small-scale gold mining activities are one of the main threats to the Bolivian river dolphin, a subspecies of the Amazon river dolphin. The mercury reaches dolphins through the food chain. They mainly eat catfish, which are bottom feeders greatly affected by metals like mercury in the water.", "        The Amazon river dolphin is seen as a competitor for diminished fish stocks and is often killed or injured when people try to chase them away. In the Brazilian and Colombian Amazon, river dolphins are often deliberately killed for use as bait in the “mota” catfish fishery, which gathers fish that demand high prices in the city."],
+        "threatTitle": ["Pollution", "Human Impact"]
+    }
+    
+    
+]
